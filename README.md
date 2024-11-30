@@ -114,7 +114,7 @@ XXX.YYY.ZZZ.VVV
 ```
 
 - **Segments**: Each segment (`XXX`, `YYY`, `ZZZ`, `VVV`) ranges from `000` to `999`.
-- **Total Addresses**: \( 1000^4 = 1,000,000,000,000,000 \) possible unique addresses.
+- **Total Addresses**: \( 1000^4 = 1 000 000 000 000 \) possible unique addresses.
 
 ### Hierarchical Addressing
 
